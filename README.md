@@ -1,9 +1,9 @@
 # Academic Performance vs. Social, Economical and Educational Indicators
 
-This README accompanies a data analysis project utilizing Python and Tableau to explore the relationship between universities, economic development, and social indicators. The analysis includes various datasets and visualizations to support the findings presented. This analysis aims to provide a comprehensive understanding of the factors contributing to the development of top universities and their impact on economic and social development. For the purposes of this project the rankings were filtered to display only universities at the top 500 positions.
+This was a data analysis project that used Python and Tableau to explore the relationship between universities, economic development, and social indicators. The analysis includes various datasets and visualizations to support the findings presented. This analysis aims to provide a comprehensive understanding of the factors contributing to the development of top universities and their impact on economic and social development. For the purposes of this project, the rankings were filtered to display only universities at the top 500 positions.
 
 ## Instructions
-1.	Python Analysis: The Python scripts used for data cleaning, analysis, and visualization are included in the jupyter notebook. Execute these scripts to reproduce the analysis.
+1.	Python Analysis: The Python scripts used for data cleaning, analysis, and visualization are included in the Jupyter notebook. Execute these scripts to reproduce the analysis.
 2.	Tableau Dashboards: The Tableau dashboards provide interactive visualizations of the data. Open the .twb files in Tableau to explore the visualizations.
 
 ### Requirements
@@ -20,7 +20,7 @@ This README accompanies a data analysis project utilizing Python and Tableau to 
 ![Captura de ecrã 2024-07-15 112129](https://github.com/user-attachments/assets/2ca4a4ef-5582-40f9-a3cf-a32f58b3bcb2)
 
 ## QS World University Rankings 2024
-The QS World University Rankings is a comprehensive ranking of 1,500 institutions across 104 locations, emphasizing employability and sustainability. The top universities in the world include both public and private institutions, with notable examples in the United States, United Kingdom, Europe, and Asia. In Latin America, top universities are predominantly public institutions.
+The QS World University Rankings is a comprehensive ranking of 1,500 institutions across 104 locations, emphasizing employability and sustainability. The top universities in the world include both public and private institutions, with notable examples in the United States, the United Kingdom, Europe, and Asia. In Latin America, top universities are predominantly public institutions.
 
 Their ranking includes the following scoring metrics:
 1. AR - Academic Reputation
